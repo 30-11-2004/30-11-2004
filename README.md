@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @30-11-2004
+- 👋 Hi, I’m Do Quang Hao
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python and C
   
